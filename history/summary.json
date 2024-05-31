@@ -58,19 +58,19 @@
     "url": "https://qh88com.tel",
     "icon": "https://icons.duckduckgo.com/ip3/qh88com.tel.ico",
     "slug": "qh88com-tel",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1816,
-    "timeDay": 1816,
-    "timeWeek": 1816,
-    "timeMonth": 1816,
-    "timeYear": 1816,
+    "status": "up",
+    "uptime": "61.49%",
+    "uptimeDay": "61.49%",
+    "uptimeWeek": "61.49%",
+    "uptimeMonth": "61.49%",
+    "uptimeYear": "61.49%",
+    "time": 1818,
+    "timeDay": 1818,
+    "timeWeek": 1818,
+    "timeMonth": 1818,
+    "timeYear": 1818,
     "dailyMinutesDown": {
-      "2024-05-31": 0
+      "2024-05-31": 376
     }
   }
 ]
