@@ -4,7 +4,7 @@
     "url": "https://bk8.sarl",
     "icon": "https://icons.duckduckgo.com/ip3/bk8.sarl.ico",
     "slug": "bk8-sarl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1039,
     "timeYear": 761,
     "dailyMinutesDown": {
+      "2024-08-05": 0,
       "2024-06-06": 59
     }
   },
@@ -45,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/luck8a.net.ico",
     "slug": "luck8a-net",
     "status": "down",
-    "uptime": "40.01%",
+    "uptime": "39.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "27.35%",
-    "uptimeYear": "40.01%",
+    "uptimeYear": "39.96%",
     "time": 1522,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1961,
     "timeYear": 1522,
     "dailyMinutesDown": {
-      "2024-08-05": 928,
+      "2024-08-05": 1051,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
@@ -119,7 +120,7 @@
     "timeMonth": 476,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2024-08-05": 928,
+      "2024-08-05": 1051,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
